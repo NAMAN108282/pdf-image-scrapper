@@ -1,1 +1,1 @@
-Scraping all the image present in a pdf
+Scraping all the images present in a pdf by using python.
