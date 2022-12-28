@@ -1,3 +1,6 @@
+import fitz, os, io
+from PIL import Image
+
 def extract_images(input_file:str
                    ,output_path:str
                    ,pages:list=None):
